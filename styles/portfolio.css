@@ -19,6 +19,7 @@
     /* backgrround color, image styles */
 }
 
+
 .header {
     background: #FFF8F3;
     background-image: url(../images/header_bg.png), url(../images/developer.png);
@@ -30,7 +31,7 @@
 nav {
     display: flex;
     justify-content: space-between;
-    margin: 50px 200px;
+    padding: 50px 200px;
 }
 
 .nav-title {
@@ -209,4 +210,5 @@ padding: 18px 30px;
 }
 input{
     height: 64px;
+    
 }
